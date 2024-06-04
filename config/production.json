@@ -1,0 +1,9 @@
+{
+  "environment": "production",
+  "server": {
+    "readTimeout": 5,
+    "writeTimeout": 5,
+    "port": ":4010",
+    "grpcPort": ":40005"
+  }
+}
